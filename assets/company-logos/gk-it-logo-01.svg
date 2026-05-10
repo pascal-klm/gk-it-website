@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 220" role="img" aria-labelledby="title desc">
+  <title id="title">GK-IT Logo Concept 01</title>
+  <desc id="desc">Minimal wordmark with square monogram and tagline Gut und Kompetente IT.</desc>
+  <rect width="640" height="220" rx="28" fill="#08111d"/>
+  <rect x="54" y="54" width="112" height="112" rx="24" fill="#f5f7fb"/>
+  <path d="M93 92h42v14h-26v13h22v13h-22v22H93z" fill="#08111d"/>
+  <path d="M138 92h15v62h-15z" fill="#08111d"/>
+  <text x="198" y="113" font-family="Inter, Arial, sans-serif" font-size="58" font-weight="800" fill="#f5f7fb">GK-IT</text>
+  <text x="202" y="148" font-family="Inter, Arial, sans-serif" font-size="20" font-weight="600" letter-spacing="3" fill="#9fb0c6">Gut und Kompetente IT</text>
+</svg>

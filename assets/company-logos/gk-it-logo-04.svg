@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 220" role="img" aria-labelledby="title desc">
+  <title id="title">GK-IT Logo Concept 04</title>
+  <desc id="desc">Compact dark wordmark with subtle circuit accent.</desc>
+  <rect width="640" height="220" rx="28" fill="#0b1624"/>
+  <path d="M58 78h64v18H79v20h37v18H79v42H58z" fill="#f8fafc"/>
+  <path d="M136 78h20v47l43-47h25l-42 45 46 53h-27l-33-39-12 13v26h-20z" fill="#f8fafc"/>
+  <path d="M242 88h80M322 88v44M322 132h34" stroke="#5fb3d9" stroke-width="8" stroke-linecap="round"/>
+  <text x="56" y="56" font-family="Inter, Arial, sans-serif" font-size="18" font-weight="800" letter-spacing="5" fill="#5fb3d9">GK-IT</text>
+  <text x="260" y="166" font-family="Inter, Arial, sans-serif" font-size="23" font-weight="700" letter-spacing="3" fill="#aab6c7">Gut und Kompetente IT</text>
+</svg>

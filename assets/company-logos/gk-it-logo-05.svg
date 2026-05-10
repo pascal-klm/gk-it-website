@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 220" role="img" aria-labelledby="title desc">
+  <title id="title">GK-IT Logo Concept 05</title>
+  <desc id="desc">Monoline initial mark with precise technology styling.</desc>
+  <rect width="640" height="220" rx="28" fill="#ffffff"/>
+  <rect x="48" y="48" width="124" height="124" rx="62" fill="none" stroke="#0f2438" stroke-width="10"/>
+  <path d="M84 90h34c-4-9-13-14-25-14-20 0-34 15-34 34s14 34 35 34c15 0 25-7 31-18H94v-18h54c1 25-18 54-54 54-31 0-55-23-55-52s24-52 55-52c24 0 42 12 51 32z" fill="#0f2438" transform="scale(.78) translate(50 42)"/>
+  <text x="212" y="111" font-family="Inter, Arial, sans-serif" font-size="64" font-weight="800" letter-spacing="-3" fill="#111827">GK-IT</text>
+  <text x="216" y="149" font-family="Inter, Arial, sans-serif" font-size="19" font-weight="700" letter-spacing="2.6" fill="#5f6f83">Gut und Kompetente IT</text>
+</svg>

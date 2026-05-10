@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 220" role="img" aria-labelledby="title desc">
+  <title id="title">GK-IT Logo Concept 03</title>
+  <desc id="desc">Clean network node mark with GK-IT wordmark.</desc>
+  <rect width="640" height="220" rx="28" fill="#f7fafc"/>
+  <circle cx="88" cy="74" r="14" fill="#0f2438"/>
+  <circle cx="154" cy="110" r="18" fill="#5fb3d9"/>
+  <circle cx="88" cy="146" r="14" fill="#0f2438"/>
+  <path d="M100 81l39 22M100 139l39-22" stroke="#8aa0b8" stroke-width="8" stroke-linecap="round"/>
+  <text x="210" y="112" font-family="Inter, Arial, sans-serif" font-size="62" font-weight="800" letter-spacing="-2" fill="#0f2438">GK-IT</text>
+  <path d="M211 128h178" stroke="#5fb3d9" stroke-width="6" stroke-linecap="round"/>
+  <text x="212" y="160" font-family="Inter, Arial, sans-serif" font-size="18" font-weight="700" letter-spacing="2.8" fill="#66788c">Gut und Kompetente IT</text>
+</svg>

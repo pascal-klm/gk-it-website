@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 220" role="img" aria-labelledby="title desc">
+  <title id="title">GK-IT Logo Concept 09</title>
+  <desc id="desc">Horizontal premium IT wordmark with subtle data bars.</desc>
+  <rect width="640" height="220" rx="28" fill="none"/>
+  <rect x="52" y="68" width="10" height="84" rx="5" fill="#f5f7fb"/>
+  <rect x="76" y="92" width="10" height="60" rx="5" fill="#5fb3d9"/>
+  <rect x="100" y="50" width="10" height="102" rx="5" fill="#f5f7fb"/>
+  <rect x="124" y="78" width="10" height="74" rx="5" fill="#5fb3d9"/>
+  <text x="180" y="112" font-family="Inter, Arial, sans-serif" font-size="66" font-weight="800" letter-spacing="-3" fill="#f5f7fb">GK-IT</text>
+  <text x="184" y="151" font-family="Inter, Arial, sans-serif" font-size="18" font-weight="800" letter-spacing="2.8" fill="#aab6c7">Gute und Kompetente IT</text>
+</svg>
